@@ -1,0 +1,41 @@
+.Rigth_seccion{
+    width: 505px;
+}
+.titulo{
+    padding: 1rem 1rem 2.5rem 1rem;
+}
+.mortagage_input{
+    border:2px solid #DBDA31;
+    width: 90%;
+    border-radius: 0px 10px 10px 0px;
+    height: 49px;
+}
+#stacked-buttons{
+    padding: 1rem;
+    border:1px solid #3f3f3f;
+}
+.mortagage_icon{
+    padding: 15px;
+    background-color: #DBDA31;
+    color: white;
+    border-radius: 10px 0px 0px 10px;
+}
+.mortagage_input_years{
+    border-radius:5px ;
+}
+.mortagage_years{
+    background-color: #E3F4FC;
+    border:1px solid #3f3f3f;
+}
+.radio_rapay {
+    border: 2px solid #3f3f3f;
+    align-items: center;
+    margin-top: .5rem;
+    border-radius: 15px;
+}
+.btn_green{
+    width: 80%;
+    background-color: #DBDA31;
+    padding: 1rem;
+    border-radius: 50px;
+}
